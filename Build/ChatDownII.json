@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PhotonChatGame",
+"productVersion": "0.1",
+"dataUrl": "ChatDownII.data.unityweb",
+"wasmCodeUrl": "ChatDownII.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChatDownII.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
